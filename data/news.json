@@ -15,5 +15,56 @@
       "excerpt": "Η ομάδα μας ξεκίνησε επίσημα και σε περιμένει να εξελιχθούμε μαζί.",
       "body": "Είμαστε ενθουσιασμένοι που ανακοινώνουμε την επίσημη έναρξη της ομάδας μας.\n\nΑυτό είναι το ξεκίνημα μιας πορείας με στόχο την καινοτομία, τη συνεργασία και την πρακτική ενασχόληση με τη μηχανική. Θέλουμε να φέρουμε κοντά φοιτητές με πάθος για την τεχνολογία και διάθεση για δημιουργία.\n\nΑν σε ενδιαφέρει η ρομποτική, τα embedded συστήματα ή απλά θέλεις να μάθεις και να εξελιχθείς, αυτή είναι η ευκαιρία σου.\n\nΓίνε μέρος της ομάδας και βοήθησε να χτίσουμε το μέλλον μας."
     }
+  },
+  {
+    "id": "4",
+    "type": "announcement",
+    "date": "2026-08-27",
+    "image": "",
+    "links": [],
+    "en": {
+      "title": "Participating in the Thessaloniki International Fair - 2026",
+      "excerpt": "We are happy to announce that our team will be attending the Thessaloniki International Fair.",
+      "body": "From September 5th to September 13th, 2026, members, professors, and partners of our team will attend the Thessaloniki International Fair (TIF), where they will present our active projects."
+    },
+    "el": {
+      "title": "Συμετοχή στην Διεθνή Έκθεση Θεσσαλονίκης - 2026",
+      "excerpt": "Με χαρά ανακηνώνουμε πως η ομάδα μας θα παρεβρεθεί στην Διεθνή Έκθεση Θεσσαλονίκης ",
+      "body": "Από τις 5 έως τις 13 Σεπτεμβρίου του 2026 μέλη, καθηγητές και συνεργάτες της ομάδας μας θα παρεβρεθούν στην ΔΕΘ, όπου και θα παρουσιάσουν τα ενεργά μας project."
+    }
+  },
+  {
+    "id": "2",
+    "type": "announcement",
+    "date": "2026-05-25",
+    "image": "",
+    "links": [],
+    "en": {
+      "title": "The ENGAGE Student Scientific Team of the University of Western Macedonia",
+      "excerpt": "Student innovation and startup entrepreneurship take center stage at the institution's 10th anniversary.",
+      "body": "The ENGAGE student scientific team of the University of Western Macedonia actively participated in Startup Europe Week 2026, held in Kozani on Monday, May 25, 2026, at the main amphitheater of the UoWM Administration Building at ZEP.\n\nThe event, celebrating its 10th anniversary this year, put innovation and startup entrepreneurship in the spotlight, bringing together startups, researchers, entrepreneurs, and students from across the region. ENGAGE was among the student teams that presented their work to a large and diverse audience.\n\nThis participation marks an important step for the team, which takes advantage of every networking opportunity to expand its collaborations, showcase its projects (drone, AI robot, smart EV rental, CubeSat), and explore funding opportunities through European programs and local organizations, including the SYNERGiNN EDIH hub.\n\nENGAGE thus reaffirms its role as a leading force in student innovation in Western Macedonia, proving that high-quality technological work can originate and thrive within the region."
+    },
+    "el": {
+      "title": "Η φοιτητική επιστημονική ομάδα ENGAGE του Πανεπιστημίου Δυτικής Μακεδονίας",
+      "excerpt": "Φοιτητική καινοτομία και νεοφυής επιχειρηματικότητα στο επίκεντρο της 10ης επετείου του θεσμού",
+      "body": "Η φοιτητική επιστημονική ομάδα ENGAGE του Πανεπιστημίου Δυτικής Μακεδονίας συμμετείχε ενεργά στο Startup Europe Week 2026 που πραγματοποιήθηκε στην Κοζάνη την Δευτέρα 25 Μαΐου 2026, στο κεντρικό αμφιθέατρο του κτιρίου Διοίκησης του ΠΔΜ στη ΖΕΠ.\n\nΗ εκδήλωση, που φέτος γιόρτασε την 10η επέτειό της, έφερε στο επίκεντρο την καινοτομία και τη νεοφυή επιχειρηματικότητα, συγκεντρώνοντας startups, ερευνητές, επιχειρηματίες και φοιτητές από ολόκληρη την περιοχή. Η ENGAGE ήταν ανάμεσα στις φοιτητικές ομάδες που παρουσίασαν το έργο τους μπροστά σε ένα πολυπληθές και διαφορετικό κοινό.\n\nΗ συμμετοχή αυτή αποτελεί σημαντικό βήμα για την ομάδα, η οποία αξιοποιεί κάθε ευκαιρία δικτύωσης για να επεκτείνει τις συνεργασίες της, να αναδείξει τα project της (drone, ρομπότ ΑΙ, έξυπνη ενοικίαση ΗΟ, CubeSat) και να εξερευνήσει δυνατότητες χρηματοδότησης μέσω ευρωπαϊκών προγραμμάτων και τοπικών φορέων, συμπεριλαμβανομένου του κόμβου SYNERGiNN EDIH.\n\nΗ ENGAGE επιβεβαιώνει έτσι τον ρόλο της ως πρωταγωνιστή της φοιτητικής καινοτομίας στη Δυτική Μακεδονία, αποδεικνύοντας ότι υψηλής ποιότητας τεχνολογική εργασία μπορεί να προέρχεται και να αναπτύσσεται εντός της περιφέρειας."
+    }
+  },
+  {
+    "id": "3",
+    "type": "announcement",
+    "date": "2026-04-15",
+    "image": "",
+    "links": [],
+    "en": {
+      "title": "The ENGAGE Student Scientific Team of the University of Western Macedonia",
+      "excerpt": "Activities, projects, and goals of a team building the future of technology in Western Macedonia.",
+      "body": "The ENGAGE student scientific team of the Department of Electrical and Computer Engineering (ECE) at the University of Western Macedonia is making its mark on technological innovation in the region, just one year after its founding.\n\nMade up of 15 to 20 active members — students from the Department of Electrical and Computer Engineering (ECE), the Department of Mechanical Engineering, and the Department of Product and Systems Design Engineering — the team is currently developing four cutting-edge projects: an autonomous-flight drone, an AI-powered social robot, a smart electric vehicle rental system, and a CubeSat (FunCube).\n\nThe team uses specialized equipment, such as NVIDIA Jetson and LattePanda platforms, to run AI models locally, and communicates with the FunCube satellite via ground-based UHF antennas. Notably, the team initially operated entirely on its own resources, while today it enjoys support from both sponsors and the University itself.\n\nUpcoming activities include participation in the Thessaloniki International Fair (September 5–13, 2026) as well as organizing a Hackathon at ZEP Kozani on October 30–31, 2026, in collaboration with the University of Western Macedonia and ekozani.\n\nFor more information and to get in touch with the team, visit ENGAGE's communication channels."
+    },
+    "el": {
+      "title": "Η φοιτητική επιστημονική ομάδα ENGAGE του Πανεπιστημίου Δυτικής Μακεδονίας",
+      "excerpt": "Δράσεις, project και στόχοι μιας ομάδας που χτίζει το μέλλον της τεχνολογίας στη Δυτική Μακεδονία",
+      "body": "Η φοιτητική επιστημονική ομάδα ENGAGE του Τμήματος Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών (ΤΗΜΜΥ) του Πανεπιστημίου Δυτικής Μακεδονίας δίνει το «παρών» στην τεχνολογική καινοτομία της περιοχής, μόλις έναν χρόνο μετά την ίδρυσή της.\n\nΑποτελούμενη από 15 έως 20 ενεργά μέλη — φοιτητές από το Τμήμα Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών (ΤΗΜΜΥ), το Τμήμα Μηχανολόγων Μηχανικών και το Τμήμα Μηχανικών Σχεδίασης Προϊόντων και Συστημάτων — η ομάδα αναπτύσσει σήμερα τέσσερα project αιχμής: drone αυτόνομης πτήσης, κοινωνικό ρομπότ με τεχνητή νοημοσύνη, σύστημα έξυπνης ενοικίασης ηλεκτρικών οχημάτων και CubeSat (FunCube).\n\nΗ ομάδα χρησιμοποιεί εξειδικευμένο εξοπλισμό, όπως πλατφόρμες NVIDIA Jetson και LattePanda, για την τοπική εκτέλεση μοντέλων τεχνητής νοημοσύνης, ενώ επικοινωνεί με τον δορυφόρο FunCube μέσω κεραιών UHF από το έδαφος. Αξίζει να σημειωθεί ότι αρχικά η ομάδα λειτούργησε αποκλειστικά με ίδιους πόρους, ενώ σήμερα απολαμβάνει στήριξη τόσο από χορηγούς όσο και από το ίδιο το Πανεπιστήμιο.\n\nΣτις επόμενες δράσεις περιλαμβάνεται συμμετοχή στη Διεθνή Έκθεση Θεσσαλονίκης (5–13 Σεπτεμβρίου 2026) καθώς και η διοργάνωση Hackathon στη ΖΕΠ Κοζάνης, στις 30–31 Οκτωβρίου 2026, σε συνεργασία με το Πανεπιστήμιο Δυτικής Μακεδονίας και το ekozani.\n\nΓια περισσότερες πληροφορίες και επικοινωνία με την ομάδα, επισκεφθείτε τα κανάλια επικοινωνίας της ENGAGE."
+    }
   }
 ]
