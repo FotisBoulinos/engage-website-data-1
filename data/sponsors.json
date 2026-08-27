@@ -1,4 +1,32 @@
 [
+   {
+    "name": "EcoZani",
+    "tier": "gold",
+    "display_mode": "logo",
+    "logo": "img/EcoZani.png",
+    "website": "https://ecozani.eu/"
+  },
+  {
+    "name": "Telecommunication Networks and Advanced Services",
+    "tier": "gold",
+    "display_mode":"logo",
+    "logo":"img/TELNAS.png",
+    "website": "https://telnas.ece.uowm.gr/"
+  },
+  {
+    "name": "G-U",
+    "tier": "silver",
+    "display_mode": "logo",
+    "logo": "img/G-U.png",
+    "website": "https://www.g-u.com/en/DE/DE.html"
+  },
+  {
+    "name": "Διαδυμα",
+    "tier": "support",
+    "display_mode": "logo",
+    "logo": "img/DIADYMA.png",
+    "website": "https://diadyma.gr/"
+  },
   {
     "name": "Component Search Engine",
     "tier": "bronze",
