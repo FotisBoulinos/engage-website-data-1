@@ -18,7 +18,7 @@
   {
     "icon": "🚁",
     "tags": ["Drone", "IoT", "Live Streaming", "Embedded", "3D Printing"],
-    "status": "active",
+    "status": "completed",
     "featured": true,
     "members": 4,
     "github": "",
@@ -50,7 +50,7 @@
   {
   "icon": "⚡",
   "tags": ["Mobility", "Electric Vehicles", "SaaS", "Sustainability"],
-  "status": "active",
+  "status": "completed",
   "featured": true,
   "members": 2,
   "github": "",
@@ -61,6 +61,22 @@
   "el": {
     "name": "Speeddrive",
     "description": "Πλατφόρμα ενοικίασης ηλεκτρικών αυτοκινήτων που προσφέρει εύκολη πρόσβαση σε οικολογικές μετακινήσεις, με έξυπνες κρατήσεις και διαθεσιμότητα σε πραγματικό χρόνο."
+  }
+},
+   {
+  "icon": "🏡",
+  "tags": ["App Design", "Cloud Storage", "Smart Sensors", "Software Development"],
+  "status": "active",
+  "featured": true,
+  "members": 3,
+  "github": "",
+  "en": {
+    "name": "SmartHome",
+    "description": "Smart sensor data upload on the localy developed app."
+  },
+  "el": {
+    "name": "Speeddrive",
+    "description": "Ενημέρωση δεδομένων έξυπνων αισθητήρων σε εφαρμογή που αναπτύξαμε τοπικά."
   }
 }
 ]
