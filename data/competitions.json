@@ -13,5 +13,35 @@
       "date": "2025",
       "scope": "Εθνικός"
     }
+  },
+  {
+    "status": "Current",
+    "result": "",
+    "url": "https://boschfuturemobility.com/",
+    "en":{
+      "name": "Bosch Future Mobility Challenge",
+      "date": "2027",
+      "scope": "International"
+    },
+    "el": {
+      "name": "Bosch Future Mobility Challenge",
+      "date": "2027",
+      "scope": "Διεθνής"
+    }
+  },
+  {
+    "status": "Current",
+    "result": "",
+    "url": "https://www.nbg.gr/el/epaggelmaties/nbg-business-seeds/diagwnismos",
+    "en": {
+      "name": "Inovation and Technology Competition",
+      "date": "2027",
+      "scope": "National"
+    },
+    "el": {
+      "name": "Διαγωνισμός Καινοτομίας και Τεχνολογίας ",
+      "date": "2027",
+      "scope": "Εθνικός"
+    }
   }
 ]
