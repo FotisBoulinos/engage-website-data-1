@@ -3,28 +3,28 @@
     "name": "EcoZani",
     "tier": "gold",
     "display_mode": "logo",
-    "logo": "img/EcoZani.png",
+    "logo": "https://raw.githubusercontent.com/harrytypou/engage-website-data/main/img/sponsors/EcoZani.png",
     "website": "https://ecozani.eu/"
   },
   {
     "name": "Telecommunication Networks and Advanced Services",
     "tier": "gold",
     "display_mode":"logo",
-    "logo":"img/TELNAS.png",
+    "logo":"https://raw.githubusercontent.com/harrytypou/engage-website-data/main/img/sponsors/TELNAS.png",
     "website": "https://telnas.ece.uowm.gr/"
   },
   {
     "name": "G-U",
     "tier": "silver",
     "display_mode": "logo",
-    "logo": "img/G-U.png",
+    "logo": "https://raw.githubusercontent.com/harrytypou/engage-website-data/main/img/sponsors/G-U.png",
     "website": "https://www.g-u.com/en/DE/DE.html"
   },
   {
     "name": "Διαδυμα",
     "tier": "support",
     "display_mode": "logo",
-    "logo": "img/DIADYMA.png",
+    "logo": "https://raw.githubusercontent.com/harrytypou/engage-website-data/main/img/sponsors/DIADYMA.png",
     "website": "https://diadyma.gr/"
   },
   {
