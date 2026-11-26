@@ -41,31 +41,7 @@
   },
   {
     "name": "Παναγιώτης Μπαξεβάνης",
-    "role": "Communication Manager | Hardware Engineer",
-    "category": "Student",
-    "photo": "",
-    "linkedin": "",
-    "github": ""
-  },
-  {
-    "name": "Δημήτρης Γκούντας",
-    "role": "Hardware | Software Engineer",
-    "category": "Student",
-    "photo": "",
-    "linkedin": "",
-    "github": ""
-  },
-  {
-    "name": "Γιάννης Βουτσκίδης",
-    "role": "Hardware | Software Engineer",
-    "category": "Student",
-    "photo": "",
-    "linkedin": "",
-    "github": ""
-  },
-  {
-    "name": "Πρόδρομος Καμτζηρίδης",
-    "role": "Hardware Engineer",
+    "role": "Communication Manager",
     "category": "Student",
     "photo": "",
     "linkedin": "",
@@ -73,7 +49,7 @@
   },
   {
     "name": "Στέφανος Παναγιώτης Σταθόπουλος",
-    "role": "3D designer | Hardware - Software Engineer",
+    "role": "Design Sub-Team Leader",
     "category": "Student",
     "photo": "",
     "linkedin": "",
@@ -81,7 +57,7 @@
   },
   {
     "name": "Αναστάσιος Πόρτολος",
-    "role": "Hardware - Software Engineer",
+    "role": "Electronics Sub-Team Leader",
     "category": "Student",
     "photo": "",
     "linkedin": "",
@@ -89,7 +65,23 @@
   },
   {
     "name": "Διονύσης Γκολφινόπουλος",
-    "role": "Software Engineer",
+    "role": "Buisness Marketing Sub-Team Leader",
+    "category": "Student",
+    "photo": "",
+    "linkedin": "",
+    "github": ""
+  },
+  {
+    "name": "Δημήτρης Γκούντας",
+    "role": "Electronics",
+    "category": "Student",
+    "photo": "",
+    "linkedin": "",
+    "github": ""
+  },
+  {
+    "name": "Πρόδρομος Καμτζηρίδης",
+    "role": "Electronics",
     "category": "Student",
     "photo": "",
     "linkedin": "",
@@ -97,7 +89,63 @@
   },
   {
     "name": "Βασιλική Παπανικολάου",
-    "role": "Hardware Engineer",
+    "role": "Electronics",
+    "category": "Student",
+    "photo": "",
+    "linkedin": "",
+    "github": ""
+  },
+  {
+    "name": "Βασίλης Κλεφτάκης",
+    "role": "Electronics",
+    "category": "Student",
+    "photo": "",
+    "linkedin": "",
+    "github": ""
+  },
+  {
+    "name": "Βασίλης Κάλλος",
+    "role": "Electronics",
+    "category": "Student",
+    "photo": "",
+    "linkedin": "",
+    "github": ""
+  },
+  {
+    "name": "Αλέξανδρος Μπάτζιος",
+    "role": "Electronics",
+    "category": "Student",
+    "photo": "",
+    "linkedin": "",
+    "github": ""
+  },
+  {
+    "name": "Βασίλης Μπαλόπουλος",
+    "role": "Software",
+    "category": "Student",
+    "photo": "",
+    "linkedin": "",
+    "github": ""
+  },
+  {
+    "name": "Παναγιώτης Καλαπανίδας",
+    "role": "Electronics",
+    "category": "Student",
+    "photo": "",
+    "linkedin": "",
+    "github": ""
+  },
+  {
+    "name": "Διογένης Μαργαρίτης",
+    "role": "Software",
+    "category": "Student",
+    "photo": "",
+    "linkedin": "",
+    "github": ""
+  },
+  {
+    "name": "Θεοδώρα Βαλαβάνη",
+    "role": "Software",
     "category": "Student",
     "photo": "",
     "linkedin": "",
